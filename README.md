@@ -1,2 +1,2 @@
 # pull-request
-Building action for managing pr
+Building action for managing pull request
